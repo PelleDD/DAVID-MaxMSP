@@ -1,3 +1,5 @@
+Python script to control the DAVID program in MAXMSP via python.
+
 - Pelle De Deckere
 - PhD student at Center For Music In The Brain (MIB), Aarhus University (AU)
 - Contact Details
